@@ -1,3 +1,6 @@
+//Donal Tuohy
+
+
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
@@ -7,7 +10,7 @@
 
 int List_of_num[SIZE_OF_ARRAY];			//Array for quicksort
 int List_of_num2[SIZE_OF_ARRAY];		//Array for selection sort
-int quick_sort_probes = 0;				//Count for quicksort
+int quick_sort_probes = 0;			//Count for quicksort
 int selection_sort_probes = 0;			//Count for selection sort
 
 //Fills the array with random numbers
