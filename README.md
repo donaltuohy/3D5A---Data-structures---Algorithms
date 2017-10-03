@@ -12,6 +12,10 @@ The assignments given for this module are described below.
     Review it in a formal written report.</li>
 </ol>
 
+<ul>
+  <li><a href="3D5A---Data-structures---Algorithms/Hash Table Solution.c"> Coded hash table solution written in C</a></li>
+  <li><a href="3D5A---Data-structures---Algorithms/Hash Table Report.pdf"> Written report on hash assignment PDF</a></li>
+</ul>
 
 <h2>Sorting Assignment</h2>
 <ol>
@@ -25,13 +29,23 @@ The assignments given for this module are described below.
 <li>Put the results in a table comparing your implementations, giving your test results, and the big-O
 complexities. State the size of the test array used, and if it was randomly distributed, mostly
   sorted, or sorted but in reverse. </li>
-</ol>  
+</ol>
+
+<ul>
+  <li><a href="3D5A---Data-structures---Algorithms/Sorting Assignment Solution.c"> Coded sorting solution written in C</a></li>
+  <li><a href="3D5A---Data-structures---Algorithms/Sorting Assignment Report.pdf"> Written report on sorting assignment PDF</a></li>
+</ul>
+
 
 <h2>Binary Search Tree Assignment</h2>
 <ol>
   <li>The goal of this assignment is to build a program with the data structure
     and functions of a typical binary search tree</li>
 </ol>
+
+<ul>
+  <li><a href="3D5A---Data-structures---Algorithms/Binary Search Tree Solution.c"> Coded binary search tree solution written in C</a></li>
+</ul>
 
 <h2>Dijkstra's Algorithm Assignment</h2>
 <ol>
@@ -46,5 +60,9 @@ complexities. State the size of the test array used, and if it was randomly dist
 </ol>
 
 <img src="3D5A---Data-structures---Algorithms/Dijkstra Diagram.JPG" width="350"/>
+
+<ul>
+  <li><a href="3D5A---Data-structures---Algorithms/Dijkstra's Algoithm Solution.c"> Coded Depth-First Search & Dijkstra solution written in C</a></li>
+</ul>
 
     
