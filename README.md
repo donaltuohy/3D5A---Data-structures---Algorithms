@@ -40,7 +40,7 @@ complexities. State the size of the test array used, and if it was randomly dist
 <h2>Binary Search Tree Assignment</h2>
 <ol>
   <li>The goal of this assignment is to build a program with the data structure
-    and functions of a typical binary search tree</li>
+    and functions of a typical binary search tree.</li>
 </ol>
 
 <ul>
@@ -59,7 +59,8 @@ complexities. State the size of the test array used, and if it was randomly dist
     Do not use any pre-made graph data structures or algorithms from libraries e.g. from Boost.</li>
 </ol>
 
-<img src="3D5A---Data-structures---Algorithms/Dijkstra Diagram.JPG" width="350"/>
+
+![Dijkstra Figure 1](https://raw.github.com/donaltuohy/3D5A---Data-structures---Algorithms/Diagram1.JPG "Optional Title")
 
 <ul>
   <li><a href="3D5A---Data-structures---Algorithms/Dijkstra's Algoithm Solution.c"> Coded Depth-First Search & Dijkstra solution written in C</a></li>
