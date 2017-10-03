@@ -46,6 +46,6 @@ complexities. State the size of the test array used, and if it was randomly dist
 </ol>
 
 <p align="center">
-  <img src="Dijkstra Diagram.jpg" width="350"/>
+  <img src="3D5A---Data-structures---Algorithms/Dijkstra Diagram.JPG" width="350"/>
 </p>
     
