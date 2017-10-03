@@ -44,5 +44,7 @@ complexities. State the size of the test array used, and if it was randomly dist
     the correct sequence for your program might not exactly match the example output.
     Do not use any pre-made graph data structures or algorithms from libraries e.g. from Boost.</li>
 </ol>
+
+<img src="Dijkstra Diagram.jpg">
   
     
