@@ -26,3 +26,23 @@ The assignments given for this module are described below.
 complexities. State the size of the test array used, and if it was randomly distributed, mostly
   sorted, or sorted but in reverse. </li>
 </ol>  
+
+<h2>Binary Search Tree Assignment</h2>
+<ol>
+  <li>The goal of this assignment is to build a program with the data structure
+    and functions of a typical binary search tree</li>
+</ol>
+
+<h2>Dijkstra's Algorithm Assignment</h2>
+<ol>
+  <li>The goal of this assignment is to write a program that represents the graph, shown in Figure 1, as
+    a data structure, and write C or C++ implementations of Depth-First Search and Dijkstra’s
+    Algorithm, which you will then call to traverse the graph. </li>
+  <li>Exact input and output requirements are given. Comment out any test code that produces other
+    output before submission.</li>
+   <li>Traversal sequences should be correct with respect to your system for ordering the edges - therefore
+    the correct sequence for your program might not exactly match the example output.
+    Do not use any pre-made graph data structures or algorithms from libraries e.g. from Boost.</li>
+</ol>
+  
+    
