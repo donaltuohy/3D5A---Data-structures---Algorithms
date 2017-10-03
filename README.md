@@ -45,7 +45,6 @@ complexities. State the size of the test array used, and if it was randomly dist
     Do not use any pre-made graph data structures or algorithms from libraries e.g. from Boost.</li>
 </ol>
 
-<p align="center">
-  <img src="3D5A---Data-structures---Algorithms/Dijkstra Diagram.JPG" width="350"/>
-</p>
+<img src="3D5A---Data-structures---Algorithms/Dijkstra Diagram.JPG" width="350"/>
+
     
