@@ -13,8 +13,8 @@ The assignments given for this module are described below.
 </ol>
 
 <ul>
-  <li><a href="3D5A---Data-structures---Algorithms/Hash Table Solution.c"> Coded hash table solution written in C</a></li>
-  <li><a href="3D5A---Data-structures---Algorithms/Hash Table Report.pdf"> Written report on hash assignment PDF</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/Hash Table Solution.c"> Coded hash table solution written in C</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/Hash Table Report.pdf"> Written report on hash assignment PDF</a></li>
 </ul>
 
 <h2>Sorting Assignment</h2>
