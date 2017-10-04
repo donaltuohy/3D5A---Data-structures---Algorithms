@@ -13,8 +13,8 @@ The assignments given for this module are described below.
 </ol>
 
 <ul>
-  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/Hash Table Solution.c"> Coded hash table solution written in C</a></li>
-  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/Hash Table Report.pdf"> Written report on hash assignment PDF</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/blob/master/Hash%20Table%20Solution.c"> Coded hash table solution written in C</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/blob/master/Hash%20Table%20Report.pdf"> Written report on hash assignment PDF</a></li>
 </ul>
 
 <h2>Sorting Assignment</h2>
@@ -32,8 +32,8 @@ complexities. State the size of the test array used, and if it was randomly dist
 </ol>
 
 <ul>
-  <li><a href="3D5A---Data-structures---Algorithms/Sorting Assignment Solution.c"> Coded sorting solution written in C</a></li>
-  <li><a href="3D5A---Data-structures---Algorithms/Sorting Assignment Report.pdf"> Written report on sorting assignment PDF</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/blob/master/Sorting%20Assignment%20Solution.c"> Coded sorting solution written in C</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/blob/master/Sorting%20Assignment%20Report.pdf"> Written report on sorting assignment PDF</a></li>
 </ul>
 
 
@@ -44,7 +44,7 @@ complexities. State the size of the test array used, and if it was randomly dist
 </ol>
 
 <ul>
-  <li><a href="3D5A---Data-structures---Algorithms/Binary Search Tree Solution.c"> Coded binary search tree solution written in C</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/blob/master/Binary%20Search%20Tree%20Solution.c"> Coded binary search tree solution written in C</a></li>
 </ul>
 
 <h2>Dijkstra's Algorithm Assignment</h2>
@@ -61,7 +61,7 @@ complexities. State the size of the test array used, and if it was randomly dist
 
 ![diagram1](https://user-images.githubusercontent.com/20796292/31154502-6e91810c-a89f-11e7-9284-8ae65eda971e.JPG)
 <ul>
-  <li><a href="3D5A---Data-structures---Algorithms/Dijkstra's Algoithm Solution.c"> Coded Depth-First Search & Dijkstra solution written in C</a></li>
+  <li><a href="https://github.com/donaltuohy/3D5A---Data-structures---Algorithms/blob/master/Dijkstra's%20Algoithm%20Solution.c"> Coded Depth-First Search & Dijkstra solution written in C</a></li>
 </ul>
 
     
