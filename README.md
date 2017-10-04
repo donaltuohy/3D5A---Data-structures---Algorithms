@@ -1,6 +1,6 @@
 # Data structures & algorithms module
 
-The assignments given for this module are described below.
+The assignments given for this module are described below. Although the assignments could be done in C++ which I was much more familiar with at the time, I decided it would be uselful experience to write these assignments in C.
 
 
 <h2>Hash Table Assignment</h2>
