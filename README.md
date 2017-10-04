@@ -59,9 +59,7 @@ complexities. State the size of the test array used, and if it was randomly dist
     Do not use any pre-made graph data structures or algorithms from libraries e.g. from Boost.</li>
 </ol>
 
-
-![Dijkstra Figure 1](https://raw.github.com/donaltuohy/3D5A---Data-structures---Algorithms/Diagram1.JPG "Optional Title")
-
+![diagram1](https://user-images.githubusercontent.com/20796292/31154502-6e91810c-a89f-11e7-9284-8ae65eda971e.JPG)
 <ul>
   <li><a href="3D5A---Data-structures---Algorithms/Dijkstra's Algoithm Solution.c"> Coded Depth-First Search & Dijkstra solution written in C</a></li>
 </ul>
